@@ -1,6 +1,6 @@
 """
 Loan Data Analysis Project - Python Data Analysis
-Created by: Sheeza Nazeer
+
 
 This script performs comprehensive data analysis on the loan dataset.
 """

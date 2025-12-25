@@ -1,6 +1,6 @@
 """
 Loan Data Analysis Project - Data Loader
-Created by: Sheeza Nazeer
+
 
 This script loads the loan dataset into a MySQL database.
 """

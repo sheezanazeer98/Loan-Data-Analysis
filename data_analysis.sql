@@ -1,6 +1,5 @@
 -- =====================================================
 -- Loan Data Analysis Project - Data Analysis Queries
--- Created by: Sheeza Nazeer
 -- =====================================================
 
 USE loan_analysis_db;

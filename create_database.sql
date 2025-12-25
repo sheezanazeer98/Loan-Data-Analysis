@@ -1,6 +1,5 @@
 -- =====================================================
 -- Loan Data Analysis Project - Database Setup
--- Created by: Sheeza Nazeer
 -- =====================================================
 
 -- Create Database
